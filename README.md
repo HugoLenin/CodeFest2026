@@ -5,3 +5,5 @@ Debido al tamaño de algunos archivos binarios de la base vectorial (index.faiss
 Para clonar el repositorio y obtener los archivos en su tamaño real, se recomienda tener Git LFS instalado y habilitado en el entorno local. Una vez configurado, los archivos se descargan automáticamente como archivos normales y pueden ser utilizados directamente por el proyecto al clonarlo.
 
 De lo contrario, pueden descargar directamente el archivo .zip del repositorio y ejecutarlo de manera local para su correcto funcionamiento.
+
+Se recomienda tener las versiones mas nuevas de python.
