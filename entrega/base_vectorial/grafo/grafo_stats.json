@@ -1,0 +1,218 @@
+{
+  "nodos": 46837,
+  "aristas": 282334,
+  "nodos_por_tipo": {
+    "ORG": 23667,
+    "PER": 14101,
+    "LOC": 9045,
+    "CONCEPTO": 24
+  },
+  "relaciones_top": {
+    "co_ocurre": 259361,
+    "be": 2159,
+    "have": 418,
+    "lanza": 290,
+    "provide": 272,
+    "incluye": 262,
+    "establece": 259,
+    "desarrolla": 254,
+    "crea": 237,
+    "tener": 231,
+    "utiliza": 229,
+    "contar": 200,
+    "apoya": 198,
+    "anuncia": 197,
+    "see": 187,
+    "conduct": 176,
+    "presentar": 168,
+    "realizar": 165,
+    "lidera": 162,
+    "firma": 149,
+    "submit": 136,
+    "become": 118,
+    "reporta": 117,
+    "hold": 114,
+    "configurar": 110
+  },
+  "entidades_top": [
+    {
+      "id": "concepto:inteligencia-artificial",
+      "etiqueta": "inteligencia artificial",
+      "tipo": "CONCEPTO",
+      "frecuencia": 68546,
+      "num_chunks": 17244
+    },
+    {
+      "id": "loc:estados-unidos",
+      "etiqueta": "Estados Unidos",
+      "tipo": "LOC",
+      "frecuencia": 38753,
+      "num_chunks": 17752
+    },
+    {
+      "id": "concepto:satelites",
+      "etiqueta": "satélites",
+      "tipo": "CONCEPTO",
+      "frecuencia": 29944,
+      "num_chunks": 11042
+    },
+    {
+      "id": "org:naciones-unidas",
+      "etiqueta": "Naciones Unidas",
+      "tipo": "ORG",
+      "frecuencia": 27197,
+      "num_chunks": 12492
+    },
+    {
+      "id": "loc:china",
+      "etiqueta": "China",
+      "tipo": "LOC",
+      "frecuencia": 14505,
+      "num_chunks": 6080
+    },
+    {
+      "id": "loc:rusia",
+      "etiqueta": "Rusia",
+      "tipo": "LOC",
+      "frecuencia": 8491,
+      "num_chunks": 4154
+    },
+    {
+      "id": "org:esa",
+      "etiqueta": "ESA",
+      "tipo": "ORG",
+      "frecuencia": 8197,
+      "num_chunks": 3691
+    },
+    {
+      "id": "org:nasa",
+      "etiqueta": "NASA",
+      "tipo": "ORG",
+      "frecuencia": 8111,
+      "num_chunks": 3581
+    },
+    {
+      "id": "org:pentagono",
+      "etiqueta": "Pentágono",
+      "tipo": "ORG",
+      "frecuencia": 5738,
+      "num_chunks": 3156
+    },
+    {
+      "id": "concepto:orbita-terrestre-baja",
+      "etiqueta": "órbita terrestre baja",
+      "tipo": "CONCEPTO",
+      "frecuencia": 5498,
+      "num_chunks": 3179
+    },
+    {
+      "id": "loc:brasil",
+      "etiqueta": "Brasil",
+      "tipo": "LOC",
+      "frecuencia": 4884,
+      "num_chunks": 3677
+    },
+    {
+      "id": "concepto:gobernanza",
+      "etiqueta": "gobernanza",
+      "tipo": "CONCEPTO",
+      "frecuencia": 4775,
+      "num_chunks": 3185
+    },
+    {
+      "id": "loc:colombia",
+      "etiqueta": "Colombia",
+      "tipo": "LOC",
+      "frecuencia": 4627,
+      "num_chunks": 3434
+    },
+    {
+      "id": "org:union-europea",
+      "etiqueta": "Unión Europea",
+      "tipo": "ORG",
+      "frecuencia": 4574,
+      "num_chunks": 1903
+    },
+    {
+      "id": "loc:chile",
+      "etiqueta": "Chile",
+      "tipo": "LOC",
+      "frecuencia": 4092,
+      "num_chunks": 2943
+    },
+    {
+      "id": "loc:earth",
+      "etiqueta": "Earth",
+      "tipo": "LOC",
+      "frecuencia": 4065,
+      "num_chunks": 2664
+    },
+    {
+      "id": "org:armed-forces",
+      "etiqueta": "Armed Forces",
+      "tipo": "ORG",
+      "frecuencia": 4042,
+      "num_chunks": 2360
+    },
+    {
+      "id": "concepto:basura-espacial",
+      "etiqueta": "basura espacial",
+      "tipo": "CONCEPTO",
+      "frecuencia": 4008,
+      "num_chunks": 2185
+    },
+    {
+      "id": "loc:india",
+      "etiqueta": "India",
+      "tipo": "LOC",
+      "frecuencia": 3929,
+      "num_chunks": 1801
+    },
+    {
+      "id": "loc:iran",
+      "etiqueta": "Irán",
+      "tipo": "LOC",
+      "frecuencia": 3575,
+      "num_chunks": 1162
+    },
+    {
+      "id": "org:air-force",
+      "etiqueta": "Air Force",
+      "tipo": "ORG",
+      "frecuencia": 3562,
+      "num_chunks": 2269
+    },
+    {
+      "id": "org:ministerio-de-defensa",
+      "etiqueta": "Ministerio de Defensa",
+      "tipo": "ORG",
+      "frecuencia": 3448,
+      "num_chunks": 2446
+    },
+    {
+      "id": "loc:reino-unido",
+      "etiqueta": "Reino Unido",
+      "tipo": "LOC",
+      "frecuencia": 3357,
+      "num_chunks": 2076
+    },
+    {
+      "id": "loc:mexico",
+      "etiqueta": "México",
+      "tipo": "LOC",
+      "frecuencia": 3277,
+      "num_chunks": 2505
+    },
+    {
+      "id": "loc:francia",
+      "etiqueta": "Francia",
+      "tipo": "LOC",
+      "frecuencia": 3218,
+      "num_chunks": 1975
+    }
+  ],
+  "chunks_procesados": 92732,
+  "chunks_tabulares": 2036,
+  "ner_backend": "transformers",
+  "ner_model": "Davlan/xlm-roberta-base-ner-hrl"
+}
