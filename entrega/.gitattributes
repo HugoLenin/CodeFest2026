@@ -1,3 +1,0 @@
-entrega/base_vectorial/grafo/grafo.graphml filter=lfs diff=lfs merge=lfs -text
-entrega/base_vectorial/encoder_multilingual-e5-base/index.faiss filter=lfs diff=lfs merge=lfs -text
-entrega/base_vectorial/encoder_multilingual-e5-base/metadata.jsonl filter=lfs diff=lfs merge=lfs -text
