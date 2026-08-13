@@ -567,7 +567,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--index", default=str(here / "base_vectorial" / "encoder_multilingual-e5-base" / "index.faiss"))
     ap.add_argument("--metadata", default=str(here / "base_vectorial" / "encoder_multilingual-e5-base" / "metadata.jsonl"))
-    ap.add_argument("--consultas", default=str(here / "consultas.jsonl"))
+    ap.add_argument("--consultas", default=str(here / "lib" / "consultas.jsonl"))
     ap.add_argument("--out", default=str(here / "resultados.jsonl"))
     ap.add_argument("--grafo", default=str(here / "base_vectorial" / "grafo" / "grafo.graphml"),
                     help="Ruta a grafo.graphml (Sección 8.5). Si no existe o falla su "
